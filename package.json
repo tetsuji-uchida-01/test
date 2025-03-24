@@ -1,6 +1,6 @@
 {
   "name": "@tetsuji-uchida-01/test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
